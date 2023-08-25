@@ -21,7 +21,7 @@ public class JavaInput {
 		//print the username on the console
 		System.out.println("The username is "+ userName);
 		
-	
+	    //close the scanner
 		myObj.close();
 		
 		
