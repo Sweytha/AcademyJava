@@ -21,5 +21,14 @@ public class MathOperations {
 		System.out.println(m.add(5, 10, 15)); //called the second add method because 3 parameters is passed
 
 	}
+	
+	public static void main1(String[] args) {
+
+		MathOperations m = new MathOperations();
+
+		System.out.println(m.add(5, 10)); //called the first add method because 2 parameters is passed
+		System.out.println(m.add(5, 10, 15)); //called the second add method because 3 parameters is passed
+
+	}
 
 }
