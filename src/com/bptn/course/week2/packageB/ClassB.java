@@ -2,7 +2,7 @@ package com.bptn.course.week2.packageB;
 
 import com.bptn.course.week2.packageA.ClassA;
 
-public class ClassB extends ClassA {
+class ClassB extends ClassA {
 
 	public static void main(String[] args) {
 
