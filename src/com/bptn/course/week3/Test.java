@@ -3,6 +3,7 @@ package com.bptn.course.week3;
 
 import java.util.ArrayList;
 
+
 public class Test {
     public static void moveSmallest(ArrayList<Integer> list) {
         int smallestIndex = 0;
