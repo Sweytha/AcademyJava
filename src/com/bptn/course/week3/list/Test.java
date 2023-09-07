@@ -1,4 +1,4 @@
-package com.bptn.course.week3;
+package com.bptn.course.week3.list;
 
 
 import java.util.ArrayList;
