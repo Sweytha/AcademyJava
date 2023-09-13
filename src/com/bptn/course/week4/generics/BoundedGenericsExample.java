@@ -19,6 +19,11 @@ public class BoundedGenericsExample<T extends Number> {
         System.out.println("Double Value: " + doubleExample.getValue());
 
         // Attempting to create a String-based instance (which will result in a compile-time error)
-        // BoundedGenericsExample<String> stringExample = new BoundedGenericsExample<>("Hello");
+     //    BoundedGenericsExample<String> stringExample = new BoundedGenericsExample<>("Hello");
+        
+      //   System.out.println("String Value: " + stringExample.getValue());
+        
+        
     }
 }
+
