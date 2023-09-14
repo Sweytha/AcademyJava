@@ -1,5 +1,7 @@
 package com.bptn.course.week4.streamAPI;
 
+
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
@@ -16,4 +18,3 @@ public class ToSetExample {
         System.out.println("Unique fruits: " + uniqueFruits);
     }
 }
-

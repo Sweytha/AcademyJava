@@ -1,5 +1,7 @@
 package com.bptn.course.week4.streamAPI;
 
+
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
@@ -19,5 +21,6 @@ public class ToMapExample {
         System.out.println("Fruit length map: " + fruitLengthMap);
     }
 }
+
 
 

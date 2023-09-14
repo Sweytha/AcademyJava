@@ -23,4 +23,3 @@ public class MethodReferenceExample {
      ji.showInterfaceInfo("Method Reference");
  }
 }
-

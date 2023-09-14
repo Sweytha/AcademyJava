@@ -30,4 +30,3 @@ public class StreamExercise {
         System.out.println("Words in upper case " + uppercaseWords);
     }
 }
-
